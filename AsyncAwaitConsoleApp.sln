@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitConsoleApp", "AsyncAwaitConsoleApp\AsyncAwaitConsoleApp.csproj", "{CECB8787-FA11-4353-847A-1B17AA063DC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECB8787-FA11-4353-847A-1B17AA063DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECB8787-FA11-4353-847A-1B17AA063DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECB8787-FA11-4353-847A-1B17AA063DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECB8787-FA11-4353-847A-1B17AA063DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BFA0FED-C3C5-45F7-8227-D5E598EB5032}
+	EndGlobalSection
+EndGlobal
